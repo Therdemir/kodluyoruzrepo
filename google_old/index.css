@@ -1,0 +1,72 @@
+
+body{
+    margin: 0;
+    padding: 0;
+}
+/*container*/
+
+.container{
+    text-align: center;
+    margin: 0px 4%;
+}
+
+.box2{
+    background-color: rgb(229, 229, 229);
+    margin: 1px;
+}
+
+.boxp{
+    font-size: 17px;
+    margin-bottom: 1px;
+}
+
+input{
+    padding: 2px 5px;
+}
+
+button{
+    font-size: 16px;
+    padding: 2px 8px;
+}
+
+/**/
+
+.box3{
+    display: flex;
+}
+
+.boxone{
+    display: flex;
+    flex-direction: column;
+    background-color: #7EE5DA;
+    width: 38%;
+    margin: 1px;
+    padding-bottom: 15px;
+}
+
+.boxtwo{
+    display: flex;
+    width:26%;
+    flex-direction: column;
+    background-color: #70CCC2;
+    margin: 1px;
+    padding-top: 10px;
+}
+
+.boxthree{
+    display: flex;
+    width: 38%;
+    flex-direction: column;
+    background-color: #62B3AA;
+    margin: 1px;
+    padding-top: 10px;
+}
+
+.input2{
+    margin: auto;
+    width: 200px;
+}
+
+.footerp{
+    text-align: center;
+}
