@@ -1,0 +1,73 @@
+/*Navbar*/
+
+.navbar{
+    background-color: rgb(54, 54, 54);
+    height:60px;
+}
+
+nav ul{
+    padding-left: 10px;
+}
+
+.nav-list li{
+    list-style-type: none;
+    float: left;
+    padding: 9px;
+}
+
+.nav-list li a{
+    text-decoration: none;
+    color: white;
+}
+
+/*urunler*/
+
+.head1{
+    padding-top: 85px;
+    margin-bottom: 90px;
+    font-weight: lighter;
+    font-size: 55px;
+    color: blueviolet;
+}
+
+.col-sm-4{
+    margin-bottom: 15px;
+}
+
+.card-title{
+    color: blueviolet;
+}
+
+.btn{
+    margin-top: 70px;
+}
+
+/*Muzik dukkanım anasayfa*/
+
+.jumbotron{
+    text-align: center;
+    list-style-position: inside;
+}
+
+.about-bt{
+    margin-top: 7px;
+}
+
+/*Hakkımızda*/
+
+.about-text{
+    padding: 40px;
+}
+
+
+.about-hd{
+    text-align: center;
+    color: blueviolet;
+    font-weight: lighter;
+    font-size: 55px;
+}
+
+
+
+
+
